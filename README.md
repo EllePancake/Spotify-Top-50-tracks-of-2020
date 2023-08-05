@@ -3,13 +3,13 @@
 This project provides a comprehensive analysis of Spotify's top 50 tracks for 2020. Utilizing a dataset containing various musical features and metadata, the analysis aims to quantify what makes a hit song and uncover insights that guide music production decisions.
 
 ## Objectives
-Practice working with Kaggle datasets.
-Perform basic Exploratory Data Analysis (EDA).
-Utilize Pandas for reading data, performing queries, and filtering data.
+- Practice working with Kaggle datasets.
+- Perform basic Exploratory Data Analysis (EDA).
+- Utilize Pandas for reading data, performing queries, and filtering data.
 ## Requirements
-Download the data from [Spotify Top 50 Tracks of 2020 dataset](https://www.kaggle.com/datasets/atillacolak/top-50-spotify-tracks-2020).
-Python 3.x
-Libraries: Pandas, NumPy, Seaborn, Matplotlib, SciPy
+- Download the data from [Spotify Top 50 Tracks of 2020 dataset](https://www.kaggle.com/datasets/atillacolak/top-50-spotify-tracks-2020).
+- Python 3.x
+- Libraries: Pandas, NumPy, Seaborn, Matplotlib, SciPy
 ## Analysis Steps
 ### 1. Data Loading
 Load the data using Pandas.
